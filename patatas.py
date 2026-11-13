@@ -3,3 +3,7 @@ a = 5
 b = 10
 c = 15
 print(a + b + c)
+# Ahora se añade la segunda parte del codigo 
+d = 20
+e = 25
+print(d + e)
